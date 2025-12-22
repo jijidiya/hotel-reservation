@@ -125,8 +125,8 @@ Hotel (id_hotel, nom, adresse, ville)
 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-compte/nom-du-projet.git
-cd nom-du-projet
+git clone https://github.com/jijidiya/hotel-reservation.git
+cd hotel-reservation
 ```
 
 2. Configurer la base de données
