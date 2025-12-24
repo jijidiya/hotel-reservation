@@ -112,8 +112,6 @@ Hotel (id_hotel, nom, adresse, ville)
 | Méthode | URL           | Controller                  | Description                        |
 | ------- | ------------- | --------------------------- | ---------------------------------- |
 | GET     | /             | HomeController              | Page d’accueil                     |
-| GET     | /hotels       | HotelController@index       | Liste des hôtels                   |
-| GET     | /hotels/{id}  | HotelController@show        | Détails d’un hôtel                 |
 | POST    | /reservation  | ReservationController@store | Créer une réservation              |
 | GET     | /reservations | ReservationController@index | Liste des réservations utilisateur |
 | GET     | /admin/hotels | HotelController@adminIndex  | Gestion hôtels (admin)             |
@@ -183,6 +181,8 @@ http://localhost:8000
 Dima License
 
 ---
+
+
 
 
 
