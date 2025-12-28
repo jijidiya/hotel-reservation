@@ -1,4 +1,30 @@
-# 🏨 Site de Réservation d’Hôte
+Voici la structure que je compte utiliser pour la page d'acceil:
+
+HEADER
+- Logo
+- Navigation (Accueil, Hôtels, Connexion, Inscription)
+
+HERO SECTION
+- Gros titre
+- Slogan
+- Bouton “Réserver maintenant”
+
+SECTION : Pourquoi nous choisir ?
+- 3 ou 4 avantages
+
+SECTION : Hôtels populaires
+- Cartes d’hôtels (mockup pour l’instant)
+
+SECTION : Comment ça marche ?
+- Étapes de réservation
+
+CTA FINAL
+- Inscription / Connexion
+
+FOOTER
+- Copyright
+
+# 🏨 Site de Réservation d’Hôtel
 
 ## 1. Description
 
