@@ -1,4 +1,4 @@
-# 🏨 Site de Réservation d’Hôtel
+# 🏨 Site de Réservation d’Hôte
 
 ## 1. Description
 
