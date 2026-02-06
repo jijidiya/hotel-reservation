@@ -87,7 +87,6 @@ Avant de lancer le projet, assurez-vous d’avoir installé :
 
 ### 1. Cloner le dépôt
 
-```bash
 https://github.com/jijidiya/hotel-reservation.git
 cd hotel-reservation
 ---
@@ -96,7 +95,6 @@ cd hotel-reservation
 
 La structure du projet est organisée de manière à séparer clairement le backend et le frontend.
 
-```text
 hotel-reservation/
 │
 ├── backend/                # Backend Django (API REST)
@@ -124,7 +122,6 @@ Certaines informations sensibles doivent être stockées dans des variables d’
 
 Créer un fichier `.env` dans le dossier `backend` et y définir les variables suivantes :
 
-```env
 DEBUG=True
 SECRET_KEY=your-secret-key
 DATABASE_NAME=hotel_db
@@ -140,8 +137,6 @@ Django fournit une interface d’administration intégrée permettant de gérer 
 Après avoir lancé le serveur backend, l’interface d’administration est accessible à l’adresse suivante : http://127.0.0.1:8000/admin
 
 Pour créer un compte administrateur :
-
-```bash
 python manage.py createsuperuser
 ---
 ## Utilisation de l’API
